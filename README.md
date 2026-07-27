@@ -198,20 +198,19 @@ Future iterations of this project could include:
 ## Repository Structure
 
 ```
-README.md
-images/
-│── pipeline_diagram.png
-docs/
-│── assignment_summary.md
-src/
-│── (Future ETL implementation)
-data/
-│── sample_data.csv
+│── README.md
 ```
 
 ---
 
 ## Key Takeaways
 
-This project demonstrates how data engineering can be applied to sustainable agriculture by integrating multiple data sources into a single pipeline that supports timely, data-driven decision-making. It also establishes a foundation for future enhancements, including automated ETL workflows, cloud storage, orchestration, and analytics dashboards.
+This project demonstrates the design of a conceptual ETL pipeline for sustainable agriculture. It highlights how multiple data sources can be integrated to support data-driven farming decisions while promoting efficient resource use and food security.
 
+---
+
+## Author
+
+**Esther Mamtoshu**
+
+Data Engineering Portfolio
