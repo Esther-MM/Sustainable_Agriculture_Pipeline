@@ -197,8 +197,9 @@ Future iterations of this project could include:
 
 ## Repository Structure
 
-```
-│── README.md
+```text
+Sustainable_Agriculture_Pipeline/
+└── README.md
 ```
 
 ---
