@@ -182,19 +182,6 @@ This project is conceptual and focuses on architecture rather than implementatio
 
 ---
 
-## Future Improvements
-
-Future iterations of this project could include:
-
-* Building an automated ETL pipeline using Python.
-* Integrating real-time weather APIs.
-* Storing data in PostgreSQL or a cloud data warehouse.
-* Scheduling workflows with Apache Airflow.
-* Creating interactive dashboards for farmers.
-* Adding machine learning models for crop yield prediction.
-
----
-
 ## Repository Structure
 
 ```text
